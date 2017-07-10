@@ -1,0 +1,6 @@
+#ignoreing credentials
+baidusttkeys.json
+
+package-lock.json
+
+node_modules
